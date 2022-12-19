@@ -1,0 +1,447 @@
+body{
+      background-color: rgba(10, 10, 10, 0.849);
+      color: rgb(255, 255, 255);
+     
+
+}
+/*
+img {
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    height: 100px;
+}*/
+
+
+.js  {
+    background-color: rgb(204, 201, 33);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 422px ;
+    margin: 20px 0px 20px 0px;
+    
+    
+    
+
+}
+
+.js p {
+    
+
+    background-color: rgb(255, 196, 0);
+    padding: 15px 9px 9px 16px;
+    border-radius: 30px 40px 50px 20px;
+    margin: 75px 15px 50px 10px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.js img {
+    height: 120px;
+    border-radius: 70px 30px 65px 30px;
+    margin: 40px 15px 15px 20px;
+    
+
+}
+
+
+
+.html  {
+    background-color: rgb(255, 255, 255);
+    
+    
+    display: flex; 
+    border-radius: 140px 1210px 120px 201px;
+    margin: 0px 0px 0px 0px;
+    
+    
+
+}
+
+.html p {
+    background-color: rgba(255, 115, 0, 0.856);
+    
+    color: rgb(255, 255, 255);
+ /*    border-radius: 40px 50px 1120px 40px;
+    margin: 20px 10px 20px 0px;
+    padding: 20px 5px 5px 20px;
+
+   */
+    padding: 15px 9px 9px 16px;
+    border-radius: 30px 20px 60px 20px;
+    margin: 75px 15px 50px 10px;
+    
+    
+
+
+}
+
+.html img {
+    height: 130px;
+    border-radius: 30px 30px 30px 30px;
+    margin: 50px 20px 40px 20px  ;
+    
+
+}
+
+
+
+.css  {
+    background-color: rgb(255, 123, 0);
+   
+    display: flex; 
+    border-radius: 510px 170px 1330px 1122px ;
+    margin: 35px 0px 20px 0px;
+    
+    
+    
+
+}
+
+.css p {
+    color: black;
+    margin: 75px 10px 6px 5px;
+    background-color: rgba(0, 68, 255, 0.61);
+    padding: 20px 10px 5px 20px;
+    border-radius: 50px 20px 55px 20px;
+    color: aliceblue;
+
+
+}
+
+.css img {
+    height: 120px;
+    border-radius: 60px 30px 80px 30px;
+    margin: 40px 0px 10px 20px;
+    
+
+}
+
+/*
+.div{
+    height: 20px;
+    width: 20px;
+    
+    background-color: rgb(11, 117, 73);
+    border-radius: 50px;
+    margin: 0px 20px 0px 40px;
+}
+
+.div1{
+    height: 20px;
+    width: 20px;
+    
+    background-color: rgb(11, 117, 73);
+    border-radius: 50px;
+    margin: 0px 20px 0px 40px;
+}*/
+
+
+/*
+.  {
+    background-color: rgb(78, 61, 61);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 522px ;
+    margin: 35px 20px 20px 30px;
+    
+    
+    
+
+}
+
+. p {
+    margin: 75px 64px 10px 10px;
+    background-color: rgb(134, 115, 115);
+    padding: 30px 20px 5px 20px;
+    border-radius: 20px 20px 40px 20px;
+
+
+}
+
+. img {
+    height: 160px;
+    border-radius: 60px 30px 80px 30px;
+    margin: 40px;
+    
+
+}
+
+
+
+
+.js  {
+    background-color: rgb(78, 61, 61);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.js p {
+    margin: 75px 15px 25px 10px;
+    background-color: rgb(134, 115, 115);
+    padding: 15px 9px 9px 16px;
+    border-radius: 30px 20px 60px 20px;
+
+
+}
+
+.js img {
+    height: 160px;
+    border-radius: 60px 30px 80px 30px;
+    margin: 40px 15px 15px 20px;
+    
+
+}
+
+*/
+
+
+
+.python  {
+    background-color: rgba(6, 178, 230, 0.664);
+    
+    display: flex;
+    border-radius: 510px 1170px 70px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.python p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgba(37, 103, 201, 0.26);
+    padding: 15px 2px 8px 16px;
+    border-radius: 30px 20px 60px 20px;
+    color: rgb(251, 255, 0);
+
+
+}
+
+.python img {
+    height: 125px;
+    border-radius: 60px 30px 180px 20px;
+    margin: 40px 0px 15px 20px;
+    
+
+}
+
+
+
+
+
+.java  {
+    background-color: rgb(0, 132, 255);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.java p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgba(0, 0, 0, 0.356);
+    padding: 15px 12px 18px 16px;
+    border-radius: 60px 60px 600px 300px;
+
+    color: rgb(255, 255, 255);
+
+
+}
+
+.java img {
+    height: 125px;
+    border-radius: 50%;
+    margin: 40px 0px 15px 20px;
+    
+
+}
+
+
+
+
+.c  {
+    background-color: rgba(4, 0, 255, 0.349);
+    
+    display: flex;
+    border-radius: 510px 470px 330px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.c p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgba(0, 174, 255, 0.514);
+    padding: 15px 2px 8px 16px;
+    border-radius: 40px 50px 60px 40px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.c img {
+    height: 125px;
+    border-radius: 190px;
+    margin: 40px 0px 15px 20px;
+    
+
+
+
+
+}
+
+
+.php  {
+    background-color: rgb(80, 104, 172);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.php p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgba(255, 250, 250, 0.219);
+    padding: 15px 2px 8px 16px;
+    border-radius: 30px 20px 60px 20px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.php img {
+    height: 110px;
+    border-radius: 60px 130px 80px 20px;
+    margin: 40px 0px 15px 20px;
+    
+
+}
+
+
+
+    
+
+
+
+.C2  {
+    background-color: rgb(255, 255, 255);
+    
+    display: flex;
+    border-radius: 510px 170px 1330px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.C2 p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgb(33, 112, 185);
+    padding: 15px 2px 8px 16px;
+    border-radius: 30px 20px 60px 20px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.C2 img {
+    height: 110px;
+    border-radius: 90px;
+    margin: 40px 0px 15px 20px;
+    
+
+}
+  
+.kotlin  {
+    background-color: rgb(255, 255, 255);
+    
+    display: flex;
+    border-radius: 510px 800px 30px 422px ;
+    margin: 35px 0px 25px 0px;
+    
+    
+    
+
+}
+
+.kotlin p {
+    margin: 75px 5px 25px 10px;
+    background-color: rgba(0, 0, 0, 0.411);
+    padding: 15px 20px 8px 16px;
+    border-radius: 30px 140px 20px 20px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.kotlin img {
+    height: 115px;
+    border-radius: 30px 10px 10px 30px ;
+    margin: 40px 0px 15px 20px;
+    
+
+}
+
+
+
+.admin{
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #0d6efd;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-border-color: #0a58ca;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
